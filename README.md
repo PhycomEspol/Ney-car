@@ -10,3 +10,6 @@ El carrito sera controlado por una app que sera diseñada con MIT y que envia lo
 
 <h2> Acelerometro </h2>
 Incluiremos en nuestro proyecto un sensor de aceleración que mide el valor en m/s2 en cada eje x,y,z de fuerzas isometricas y dinamicas, que permite saber la orientación del carrito hacia donde debe moverse.
+
+<h2>Diagrama de bloques</h2>
+<img src="Diagrama de bloques.jpeg>
