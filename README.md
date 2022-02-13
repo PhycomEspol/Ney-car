@@ -15,3 +15,5 @@ Incluiremos en nuestro proyecto un sensor de aceleración que mide el valor en m
 <img src="Diagrama de bloques.jpeg">
 <h2>Tabla de Materiales</h2>
 <img src="Tabla Materiales.png">
+<h1>Imagen Prototipo</h1>
+<img src="imgProto.jpg">
